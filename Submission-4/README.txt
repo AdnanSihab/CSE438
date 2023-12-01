@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=MbL5LcJKUTk&feature=youtu.be
 
 
 Project title:
-A Comparative Study on Mchine Generated Text Detection Using LLM Models
+A Comparative Study on Machine Generated Text Detection Using LLM Models
 
 Group Number:
 13
